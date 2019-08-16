@@ -1,0 +1,97 @@
+body{
+    margin: 1em;
+}
+.arabic-text {
+    font-family: 'Scheherazade', Verdana, sans-serif;
+    text-align: justify;
+    direction: rtl;
+    font-size: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    line-height: 1.2em;
+}
+
+.presenter {
+    font-family: 'Lateef', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    direction: rtl;
+    font-size: 1.4em;
+}
+
+.title {
+    font-family: 'Lateef', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+    direction: rtl;
+    font-size: 2.5em;  
+    font-weight: lighter;
+    color: brown
+}
+
+iframe {
+    width: 98%;
+    height: 450px;
+}
+
+.publication-detail {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.7em;
+    text-align: right;
+}
+
+
+.title-eng {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    text-align: left;
+}  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+  td {
+    border-bottom: 1px solid #ddd;
+  }
+
+  .mufradaat-title{
+    font-family: 'Lateef', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center ;
+    direction: rtl;
+    font-size: 1.8em;  
+    font-weight: bold;
+    color: blue
+  }
+  .mufradaat{
+    border-collapse: collapse;
+align-content: stretch;
+width: 98%;
+  }
+
+
+  .arabic-phrase{
+    font-family: 'Scheherazade', Verdana, sans-serif;
+    text-align: justify;
+    direction: rtl;
+    font-size: 2em;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+    line-height: 1.2em;
+    width: 50%;
+  }
+
+  .english-meaning{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 0.8em;
+        direction: ltr;
+        width: 50%;
+        color: grey;
+  }
+
+  .word-highlight{
+    color: #ff0000;
+    background-color: lemonchiffon;
+  }
+
+  .eng-meaning {
+    color: darkgray;
+    font-size: 0.7em;
+  }
