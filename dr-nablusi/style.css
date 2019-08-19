@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+u {
+    line-height: 1.8em;
+    background-color: lemonchiffon;
+    color: darkred;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+i {
+    line-height: 1.2em;
+    color:gray;
+    font-size: 0.7em;
+    text-decoration: none;
+}
+
+
+
+.arabic-title {
+    font-family: 'Lateef';
+    font-size: 2em;
+    font-weight: bold;
+    color: brown;
+    line-height: 1.2em;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+.arabic-text {
+    font-family: 'Arial';
+    line-height: 1.8em;
+    font-size: 1.4em;
+    direction: rtl;
+    text-align: justify;
+    font-stretch: expanded;
+}
+
+.eng-text {
+    font-family: "Arial";
+    line-height: 1.2 em;
+    font-size: 0.9em;
+    color: rgb(92, 92, 92);
+    direction: ltr;
+    text-align: justify;
+}
+
+.eng-title {
+    font-size: 0.9em;
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+.media-source {
+    font-size: 0.7em;
+    line-height: 0.9em;
+}
