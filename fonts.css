@@ -1,0 +1,44 @@
+@font-face {
+    font-family: AmiriBold;
+    src: url(./fonts/Amiri-Bold.ttf);
+}
+@font-face {
+    font-family: AmiriBoldItalic;
+    src: url(./fonts/Amiri-BoldItalic.ttf);
+}
+@font-face {
+    font-family: AmiriItalic;
+    src: url(./fonts/Amiri-Italic.ttf);
+}
+@font-face {
+    font-family: AmiriRegular;
+    src: url(./fonts/Amiri-Regular.ttf);
+}
+@font-face {
+    font-family: AvenirBook;
+    src: url(./fonts/Avenir-Book.ttf);
+}
+@font-face {
+    font-family: KacstBook;
+    src: url(./fonts/KacstBook.ttf);
+}
+@font-face {
+    font-family: UthmanTahaNaskh;
+    src: url(./fonts/KFGQPC-Uthman-Taha-Naskh.ttf);
+}
+@font-face {
+    font-family: UthmanScriptHafs;
+    src: url(./fonts/KFGQPC-UthmanicScript-HAFS.otf);
+}
+@font-face {
+    font-family: ScheherazadeBold;
+    src: url(./fonts/Scheherazade-Bold.ttf);
+}
+@font-face {
+    font-family: ScheherazadeRegular;
+    src: url(./fonts/Scheherazade-Regular.ttf);
+}
+@font-face {
+    font-family: Lateef;
+    src: url(./fonts/Lateef-Regular.ttf);
+}
