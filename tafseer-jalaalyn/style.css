@@ -46,12 +46,17 @@ i {
 .arabic-text {
     font-family: 'UthmanScriptHafs';
     font-weight: bold;
+	color:rgb(128, 128, 128);
     line-height: 1.8em;
     font-size: 1.4em;
     direction: rtl;
     text-align: justify;
     font-stretch: extra-expanded;    
     padding-top: 0.8em;
+}
+
+.quran{
+	color: black;
 }
 
 .eng-text {
