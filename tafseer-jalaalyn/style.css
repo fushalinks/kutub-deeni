@@ -44,13 +44,13 @@ i {
 }
 
 .arabic-text {
-    font-family: 'UthmanTahaNaskh';
+    font-family: 'UthmanScriptHafs';
     font-weight: bold;
     line-height: 1.8em;
     font-size: 1.4em;
     direction: rtl;
     text-align: justify;
-    font-stretch: expanded;    
+    font-stretch: extra-expanded;    
     padding-top: 0.8em;
 }
 
