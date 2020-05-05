@@ -50,6 +50,7 @@ i {
     font-size: 1.4em;
     direction: rtl;
     text-align: justify;
+    font-stretch: expanded;    
     padding-top: 0.8em;
 }
 
