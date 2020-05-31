@@ -1,0 +1,104 @@
+
+u {
+    line-height: 1.8em;
+    background-color: lemonchiffon;
+    color: darkred;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+i {
+    line-height: 1.2em;
+    color:gray;
+    font-size: 0.7em;
+    text-decoration: none;
+}
+
+
+
+.title {
+    font-family: 'UthmanTahaNaskh';
+    direction: rtl;
+    font-size: 2.2em;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+.ayatCount {
+    font-family: "Traditional Arabic","Times New Roman";
+    font-size: 0.8em;
+}
+
+.ara-description {
+    font-family: 'UthmanTahaNaskh';
+    line-height: 1.6em;
+    font-size: 1.4em;
+    direction: rtl;
+    text-align: justify;
+    font-stretch: expanded;
+}
+
+.bismillah {
+    font-family: 'UthmanTahaNaskh';
+    line-height: 1.4em;
+    font-size: 1.4em;
+    direction: rtl;
+    text-align: center;
+    font-stretch: expanded;
+    padding-bottom: 1em;
+}
+
+.aya-wrapper {
+
+    direction: rtl;
+    text-align: justify;
+    font-stretch: extra-expanded;    
+    padding-top: 0.8em;
+}
+.aya-wrapper .ayah-text {
+    font-family: 'UthmanTahaNaskh';
+    font-weight: 500;
+    line-height: 1.8em;
+    font-size: 1.4em;
+}
+
+.ayaNumber {
+    font-family: "Traditional Arabic","Times New Roman";
+    font-size: 1.5em;
+}
+
+.ayaNumber a {
+    text-decoration: none;
+    color: black;
+}
+
+.notes-text {
+    font-family: Georgia;
+    line-height: 1.2em;
+    font-size: 1em;
+    color: rgb(97, 97, 97);
+    direction: ltr;
+    text-align: justify;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 0.05em dotted darkgrey;
+}
+
+.eng-description {
+    font-family: Georgia;
+    line-height: 1.2em;
+    font-size: 1em;
+    color: rgb(92, 92, 92);
+    direction: ltr;
+    text-align: justify;
+    margin-top: 0.5em;
+padding-bottom: 1em;
+    border-bottom: 0.05em solid darkgrey;
+}
+
+.media-source {
+    font-size: 0.7em;
+    line-height: 0.9em;
+}
+
