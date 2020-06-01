@@ -1,0 +1,64 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.arabic-heading {
+    font-family: 'Georgia';
+    line-height: 1.6em;
+    font-size: 1.6em;
+    direction: rtl;
+    font-weight: bold;
+    text-align: center;
+}
+
+.arabic-verb-structure {
+    font-family: 'Georgia';
+    line-height: 1.6em;
+    font-size: 1.6em;
+    direction: rtl;
+    text-align: center;
+}
+
+.arabic-text {
+    font-family: 'Georgia';
+    line-height: 1.4em;
+    font-size: 1.4em;
+    direction: rtl;
+    font-stretch: expanded;
+    color: darkgreen;
+}
+
+.ayah-container {
+    padding-top: 0.5em;
+    direction: rtl;
+    padding-bottom: 0.5em;
+    border-bottom: 0.05em dotted darkgrey;    
+}
+
+.ayah-text {
+    font-family: 'Georgia';
+    line-height: 1.4em;
+    font-size: 1.4em;
+    direction: rtl;
+    font-stretch: expanded;
+    color: red;
+}
+
+.ayah-reference {
+    direction: rtl;    
+    color: #9b9898;
+    font-size: 0.8em;
+}
+
+.gray-text {
+    color: #9b9898;
+    font-size: 0.8em;
+}
+
+
+
+.meaning-container{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 0.05em dotted darkgrey;
+}
