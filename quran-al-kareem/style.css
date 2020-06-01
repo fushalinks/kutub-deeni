@@ -58,11 +58,18 @@ i {
     font-stretch: extra-expanded;    
     padding-top: 0.8em;
 }
+
 .aya-wrapper .ayah-text {
     font-family: 'UthmanTahaNaskh';
     font-weight: 500;
     line-height: 1.8em;
     font-size: 1.4em;
+}
+
+.aya-wrapper a {
+
+    color: red;
+    text-decoration: none;
 }
 
 .ayaNumber {
