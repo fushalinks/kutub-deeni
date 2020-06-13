@@ -1,0 +1,143 @@
+u {
+    line-height: 1.8em;
+    background-color: lemonchiffon;
+    color: darkred;
+    font-size: 1em;
+    text-decoration: none;
+}
+
+
+
+.eng-title {
+    text-align: right;
+    float: right;
+}
+
+.eng-title a {
+    text-decoration: none;
+    font-family: Georgia;
+    color: black;
+}
+
+.arabic-title {
+    font-family: 'Arial';
+    font-size: 1.5em;
+    color: brown;
+    text-align: center;
+}
+
+.arabic-text {
+    font-family: 'UthmanTahaNaskh';
+    line-height: 1.9em;
+    font-size: 1.6em;
+    direction: rtl;
+    text-align: justify;
+    font-stretch: extra-expanded;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.arabic-text h3 {
+    font-weight: bold;
+    padding-top: 1em;
+}
+
+.media-source {
+    font-size: 0.7em;
+    line-height: 0.9em;
+}
+
+
+.index {
+    font-family: Georgia;
+    font-size: 1em;
+    float: left;
+}
+
+.page-header {
+    text-align: center;
+    padding-bottom: 0.5em;
+    border-bottom-color: rgb(245, 207, 207);
+    border-bottom-style: groove;
+    vertical-align: middle;
+}
+
+.page-header img {
+    height: 1.5em;
+}
+
+.index a {
+    text-decoration: none;
+    font-family: Georgia;
+    color: black;
+}
+
+.previous-page {
+    padding-right: 5em;
+}
+
+.next-page {
+    padding-left: 5em;
+}
+
+.story-index {
+    font-family: 'KacstBook';
+    font-size: 1.5em;
+    color: brown;
+    line-height: 1.2em;
+    direction: rtl;
+    margin-bottom: 0.5em;
+
+}
+
+.story-index li {
+    list-style-type: none;
+}
+
+.story-index li a {
+    text-decoration: none;
+}
+
+.chapter-notes {
+    padding-top: 0.5em;
+    border-bottom-color: darkgray;
+    border-width: 1px;
+    border-top-style: solid;
+    font-family: Georgia;
+    font-size: 1.2em;
+}
+
+.chapter-notes table thead {
+    font-family: Arial;
+    direction: rtl;
+    text-align: center;
+    font-size: 0.9em;
+    color: blue;
+}
+
+.chapter-notes table body {
+    padding-top: 2em;
+}
+
+
+.word-expression {
+    width: 20%;
+    direction: rtl;
+    font-size: 1.2em;
+    text-align: right;
+    color: brown;
+}
+
+.explanation {
+    width: 80%;
+    font-size: 0.8em;
+    color: darkgray;
+}
+
+.explanation i {
+    font-size: 1.2em;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}

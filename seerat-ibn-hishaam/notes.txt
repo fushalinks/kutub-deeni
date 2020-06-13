@@ -1,0 +1,66 @@
+Use this regex : \[FN#\d\d]  to get rid of [FN#xxx]
+
+\d = digit
+
+
+    <hr/>
+    <div class="story-index">
+      <ul>
+		<li><a href="#story1"></a></li>
+		<li> <a href="#story2"></a></li>
+		<li> <a href="#story3"></a></li>
+		<li> <a href="#story4"></a></li>
+		<li> <a href="#story5"></a></li>
+		<li> <a href="#story6"></a></li>
+		<li> <a href="#story7"></a></li>
+		<li> <a href="#story8"></a></li>
+		<li> <a href="#story9"></a></li>
+      </ul>
+    </div>
+    <hr/>
+
+<hr/>
+ <a name="story1"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+ <a name="story2"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+ <a name="story3"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+ <a name="story4"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+<a name="story5"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+<a name="story6"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+<a name="story7"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+<a name="story8"></a>
+ <div class="arabic-subtitle"></div>
+<hr/>
+<a name="story9"></a>
+ <div class="arabic-subtitle"></div>
+
+حكاية
+---
+http://www.gutenberg.org/files/34206/34206-h/34206-h.htm#Page_390
+
+The Thousand and One Nights Richard F. Burton
+
+      <div class="poetry">
+      </div>
+	  
+--- eng words to replace 
+saith => said
+thee => you
+ you =>  you   -- remember space before and after
+ hast => has
+ hath => has
+ quoth  => said 
+ whilst  => while 
