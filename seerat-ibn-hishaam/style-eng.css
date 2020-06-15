@@ -12,7 +12,7 @@ body {
     border: 0;
     padding: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.5em;
+    line-height: 1.4em;
     font-size: 1.2em;
 }
 
@@ -69,50 +69,12 @@ div.chapter {
 }
 
 p {
-    text-indent: 1em;
-    margin-top: 0.15em;
-    margin-bottom: 0.15em
-}
-
-p.poem {
-    text-indent: 0%;
-    margin-left: 10%;
-    font-size: 90%;
-    margin-top: 1em;
+    margin-left: 0.15em;
+    margin-right: 0.15em;
+    margin-top: 0.5em;
     margin-bottom: 1em
 }
 
-p.letter {
-    text-indent: 0%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 1em;
-    margin-bottom: 1em
-}
-
-p.noindent {
-    text-indent: 0%
-}
-
-p.center {
-    text-align: center;
-    text-indent: 0;
-    margin-top: 1em;
-    margin-bottom: 1em
-}
-
-p.right {
-    text-align: right;
-    margin-right: 10%;
-    margin-top: 1em;
-    margin-bottom: 1em
-}
-
-div.fig {
-    display: block;
-    margin: 0 auto;
-    text-align: center
-}
 
 a:link {
     color: blue;
@@ -145,6 +107,12 @@ p.c1 {
 }
 
 /**/
+
+i p {
+    margin-left: 3em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 .ara-title {
     text-align: right;
