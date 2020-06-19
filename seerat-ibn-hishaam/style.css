@@ -39,7 +39,8 @@ u {
 
 .arabic-text h3 {
     font-weight: bold;
-    padding-top: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
 }
 
 .media-source {
@@ -140,4 +141,19 @@ u {
     font-weight: bold;
     text-decoration: none;
     color: black;
+}
+
+.poetry{
+    margin-right: 4em;
+    color: darkolivegreen;
+}
+
+.ayah-text {
+    color: red;
+}
+
+.ayah-reference {
+    direction: rtl;    
+    color: #9b9898;
+    font-size: 0.8em;
 }
