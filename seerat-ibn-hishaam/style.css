@@ -103,9 +103,9 @@ u {
     padding-top: 0.5em;
     border-bottom-color: darkgray;
     border-width: 1px;
-    border-top-style: solid;
-    font-family: Georgia;
-    font-size: 1.2em;
+    border-top-style: groove;
+    font-family: Arial;
+    font-size: 1.4em;
 }
 
 .chapter-notes table thead {
@@ -132,13 +132,12 @@ u {
 .explanation {
     width: 80%;
     font-size: 0.8em;
-    color: darkgray;
+    color: rgb(121, 112, 112);
 }
 
 .explanation i {
-    font-size: 1.2em;
-    font-style: normal;
-    font-weight: bold;
+    font-size: 1.4em;
+    font-style: initial;
     text-decoration: none;
     color: black;
 }
