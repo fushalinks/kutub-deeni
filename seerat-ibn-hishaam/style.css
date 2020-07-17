@@ -38,6 +38,7 @@ u {
 }
 
 .arabic-text h3 {
+    font-family: Arial;
     font-weight: bold;
     padding-top: 0.5em;
     padding-bottom: 1em;
