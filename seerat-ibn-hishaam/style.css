@@ -124,19 +124,19 @@ u {
 .word-expression {
     width: 20%;
     direction: rtl;
-    font-size: 1.2em;
+    font-size: 0.9em;
     text-align: right;
     color: brown;
 }
 
 .explanation {
     width: 80%;
-    font-size: 0.8em;
+    font-size: 0.7em;
     color: rgb(121, 112, 112);
 }
 
 .explanation i {
-    font-size: 1.4em;
+    font-size: 1.1em;
     font-style: initial;
     text-decoration: none;
     color: black;
