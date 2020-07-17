@@ -23,7 +23,9 @@ u {
     font-family: 'Arial';
     font-size: 1.5em;
     color: brown;
-    text-align: center;
+    font-weight: bold;
+    font-stretch: extra-expanded; 
+    word-spacing: 0.1em;   
 }
 
 .arabic-text {
@@ -35,6 +37,7 @@ u {
     font-stretch: extra-expanded;
     margin-left: 0.5em;
     margin-right: 0.5em;
+    padding-top: 1em;
 }
 
 .arabic-text h3 {
@@ -42,6 +45,7 @@ u {
     font-weight: bold;
     padding-top: 0.5em;
     padding-bottom: 1em;
+    font-size: 1em;
 }
 
 .media-source {
@@ -58,7 +62,8 @@ u {
 
 .page-header {
     text-align: center;
-    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.8em;
     border-bottom-color: rgb(245, 207, 207);
     border-bottom-style: groove;
     vertical-align: middle;
