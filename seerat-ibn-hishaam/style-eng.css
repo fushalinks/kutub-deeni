@@ -178,12 +178,15 @@ h6 {
 }
 
 .previous-page {
-    padding-right: 5em;
+    padding-left: 1em;
+    float: left;
 }
 
 .next-page {
-    padding-left: 5em;
+    padding-left: 1em;
+    float : right
 }
+
 .chapter {
     padding-bottom: 2em;
     margin-top: 0.4em;

@@ -9,8 +9,7 @@ u {
 
 
 .eng-title {
-    text-align: right;
-    float: right;
+        float: right;
 }
 
 .eng-title a {
@@ -22,7 +21,7 @@ u {
 .arabic-title {
     font-family: 'Arial';
     font-size: 1.5em;
-    color: brown;
+    color: darkgreen;
     font-weight: bold;
     font-stretch: extra-expanded; 
     word-spacing: 0.1em;   
@@ -80,11 +79,13 @@ u {
 }
 
 .previous-page {
-    padding-right: 5em;
+    padding-left: 1em;
+    float: left;
 }
 
 .next-page {
-    padding-left: 5em;
+    padding-left: 1em;
+    float: right;
 }
 
 .story-index {
@@ -107,7 +108,7 @@ u {
 
 .chapter-notes {
     padding-top: 0.5em;
-    border-bottom-color: darkgray;
+    border-bottom-color: rgb(12, 212, 79);
     border-width: 1px;
     border-top-style: groove;
     font-family: Arial;
@@ -142,7 +143,7 @@ u {
 }
 
 .explanation i {
-    font-size: 1.1em;
+    font-size: 1.2em;
     font-style: initial;
     text-decoration: none;
     color: black;
