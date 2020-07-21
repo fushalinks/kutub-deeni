@@ -45,13 +45,14 @@ i {
 
 .arabic-text {
     font-family: 'UthmanTahaNaskh';
-    font-weight: bold;
-	color:rgb(128, 128, 128);
-    line-height: 1.8em;
-    font-size: 1.4em;
+    line-height: 1.9em;
+    font-size: 1.6em;
     direction: rtl;
     text-align: justify;
-    font-stretch: extra-expanded;    
+    font-stretch: extra-expanded;
+    margin-left: 0.5em;
+    margin-right: 0.5em;   
+    color:rgb(128, 128, 128);
     padding-top: 0.8em;
 }
 
