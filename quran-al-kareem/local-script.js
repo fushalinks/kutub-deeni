@@ -1,23 +1,35 @@
 
 
 window.onload = function () {
+    setupHideAyaatsListeners()
+}
 
+function setupHideAyaatsListeners() {
     chkBoxHideAyaats = document.getElementById('chkHideAyaats')
     chkBoxHideAyaats.addEventListener('change', function () {
         if (this.checked) {
-
-            let allAyahWrappers = document.getElementsByClassName('aya-wrapper')
-
-            for (let i = 0; i < allAyahWrappers.length; i++) {
-                allAyahWrappers[i].style.display = 'none';
-            }
-
+            hideAllElementsForClassName('aya-wrapper')
+            hideAllElementsForClassName('notes-text')
         } else {
-            let allAyahWrappers = document.getElementsByClassName('aya-wrapper')
-
-            for (let i = 0; i < allAyahWrappers.length; i++) {
-                allAyahWrappers[i].style.display = 'inherit';
-            }
+            showAllElementsForClassName('aya-wrapper')
+            showAllElementsForClassName('notes-text')
         }
     });
+
+}
+
+function showAllElementsForClassName(className) {
+    let allElements = document.getElementsByClassName(className)
+
+    for (let i = 0; i < allElements.length; i++) {
+        allElements[i].style.display = 'inherit';
+    }
+}
+
+function hideAllElementsForClassName(className) {
+    let allElements = document.getElementsByClassName(className)
+
+    for (let i = 0; i < allElements.length; i++) {
+        allElements[i].style.display = 'none';
+    }
 }
