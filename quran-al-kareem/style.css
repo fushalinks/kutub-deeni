@@ -30,7 +30,9 @@ i {
     font-weight: bold;
     background-color: darkolivegreen;
     color: white;
-    margin-bottom: 1em;
+    margin-bottom: 0.8em;
+    margin-top: 0.5em;
+
 }
 
 .topic-title {
@@ -51,6 +53,12 @@ i {
 .ayatCount {
     font-family: "Traditional Arabic","Times New Roman";
     font-size: 0.6em;
+}
+
+.rukuCount {
+    font-family: "Traditional Arabic","Times New Roman";
+    font-size: 0.6em;
+    margin-right: 1em;
 }
 
 .ara-description {
@@ -97,11 +105,12 @@ i {
 .ayaNumber {
     font-family: "Traditional Arabic","Times New Roman";
     font-size: 1.2em;
+    color: lightgrey;
 }
 
 .ayaNumber a {
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 
 .notes-text {
