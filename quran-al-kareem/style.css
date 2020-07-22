@@ -1,4 +1,8 @@
 
+body{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 u {
     line-height: 1.8em;
     background-color: lemonchiffon;
@@ -14,6 +18,24 @@ i {
     text-decoration: none;
 }
 
+
+.hideAyaatsLabel{
+    padding-left: 0.5em;
+}
+
+.ruku-title {
+    padding-top: 0.5em;
+    padding-left: 1em;
+    height: 2em;
+    font-weight: bold;
+    background-color: darkolivegreen;
+    color: white;
+    margin-bottom: 1em;
+}
+
+.topic-title {
+    padding-top: 0.5em;
+}
 
 
 .title {
@@ -102,7 +124,7 @@ i {
     direction: ltr;
     text-align: justify;
     margin-top: 0.5em;
-padding-bottom: 1em;
+    padding-bottom: 1em;
     border-bottom: 0.05em solid darkgrey;
 }
 
