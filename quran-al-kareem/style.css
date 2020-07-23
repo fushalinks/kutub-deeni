@@ -18,9 +18,25 @@ i {
     text-decoration: none;
 }
 
+/* top | right | bottom | left */
+.checkbox-ayaats  {
+    margin: 0.5em 0.5em 0.5em 0.3em;
+}
 
-.hideAyaatsLabel{
-    padding-left: 0.5em;
+.checkbox-notes {
+    margin: 0.5em 0.5em 0.5em 1em;
+}
+
+.checkbox-topics{
+    margin: 0.5em 0.5em 0.5em 1em;
+}
+
+.checkbox-intro {
+    margin: 0.5em 0.5em 0.5em 1em;
+}
+
+.surah-introduction{
+    display: none;
 }
 
 .ruku-title {
@@ -43,7 +59,7 @@ i {
 .title {
     font-family: 'UthmanTahaNaskh';
     direction: rtl;
-    font-size: 2.2em;
+    font-size: 1.8em;
     font-weight: bold;
     color: brown;
     text-align: center;

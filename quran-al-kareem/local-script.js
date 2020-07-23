@@ -1,21 +1,25 @@
 
 
 window.onload = function () {
-    setupHideAyaatsListeners()
+    setupCheckBoxListeners()
 }
 
-function setupHideAyaatsListeners() {
-    chkBoxHideAyaats = document.getElementById('chkHideAyaats')
+function setupCheckBoxListeners() {
+    setupListenerForCheckBox('chkAyaats','aya-wrapper')
+    setupListenerForCheckBox('chkNotes','notes-text')
+    setupListenerForCheckBox('chkTopics','topic-title')
+    setupListenerForCheckBox('chkIntro','surah-introduction')
+}
+
+function setupListenerForCheckBox(htmlElementId, associatedClassName){
+    chkBoxHideAyaats = document.getElementById(htmlElementId)
     chkBoxHideAyaats.addEventListener('change', function () {
         if (this.checked) {
-            hideAllElementsForClassName('aya-wrapper')
-            hideAllElementsForClassName('notes-text')
+            showAllElementsForClassName(associatedClassName)
         } else {
-            showAllElementsForClassName('aya-wrapper')
-            showAllElementsForClassName('notes-text')
+            hideAllElementsForClassName(associatedClassName)
         }
     });
-
 }
 
 function showAllElementsForClassName(className) {
