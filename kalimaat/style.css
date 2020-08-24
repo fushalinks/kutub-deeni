@@ -129,13 +129,14 @@ color:navy
 
 .ayaNumber {
     font-family: "Traditional Arabic","Times New Roman";
-    font-size: 1.2em;
+    font-size : 0.7em;
     color: lightgrey;
 }
 
 .ayaNumber a {
     text-decoration: none;
     color: gray;
+    font-size : 0.7em
 }
 
 .notes-text {
