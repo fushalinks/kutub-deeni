@@ -28,11 +28,12 @@ u {
 }
 
 .arabic-text {
-    font-family: 'KacstBook';
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 1.9em;
     font-size: 1.6em;
     direction: rtl;
     text-align: justify;
+    font-stretch: extra-expanded;
     margin-left: 0.5em;
     margin-right: 0.5em;
     padding-top: 1em;
