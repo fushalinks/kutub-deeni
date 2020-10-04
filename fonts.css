@@ -42,3 +42,27 @@
     font-family: Lateef;
     src: url(./fonts/Lateef-Regular.ttf);
 }
+@font-face {
+    font-family: AmiriQuran;
+    src: url(./fonts/AmiriQuran.ttf);
+}
+@font-face {
+    font-family: SimplifiedArabicBold;
+    src: url(./fonts/Simplified-Arabic-Bold.ttf);
+}
+@font-face {
+    font-family: SimplifiedArabic;
+    src: url(./fonts/Simplified-Arabic.ttf);
+}
+@font-face {
+    font-family: TraditionalNaskh;
+    src: url(./fonts/Traditional-Naskh.ttf);
+}
+@font-face {
+    font-family: TraditionalNaskhBold;
+    src: url(./fonts/Traditional-Naskh-Bold.ttf);
+}
+@font-face {
+    font-family: UthmanicHafsV12;
+    src: url(./fonts/UthmanicHafs1-Ex1-Ver12.ttf);
+}

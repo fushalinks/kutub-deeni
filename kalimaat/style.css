@@ -102,7 +102,7 @@ i {
     direction: rtl;
     text-align: justify;
     padding-top: 0.3em;
-    font-family: 'UthmanTahaNaskh';
+    font-family: 'UthmanicHafsV12';
     font-weight: 500;
     line-height: 1.8em;
     font-size: 1.4em;
@@ -113,7 +113,8 @@ i {
 }
 
 .kalimah-wrapper .kalimah {
-color:navy
+color:navy;
+font-weight: bold;
 }
 
 .kalimah-wrapper .meaning {
