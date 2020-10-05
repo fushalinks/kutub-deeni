@@ -3,6 +3,8 @@ body{
 font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+
+
 u {
     line-height: 1.8em;
     background-color: lemonchiffon;
@@ -77,6 +79,15 @@ i {
     margin-right: 1em;
 }
 
+.videolink {
+    font-size: 1em;
+    float: left;
+}
+
+.videolink a {
+    text-decoration: none;
+}
+
 .ara-description {
     font-family: 'UthmanTahaNaskh';
     line-height: 1.6em;
@@ -118,8 +129,11 @@ font-weight: bold;
 
 .kalimah-wrapper .meaning {
     color: black
-    }
-    
+}
+   
+.kalimah-wrapper img {
+        height: 1.1em;
+}
 
 .aya-wrapper a {
 
