@@ -4,7 +4,6 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
-
 u {
     line-height: 1.8em;
     background-color: lemonchiffon;
@@ -123,7 +122,7 @@ i {
 }
 
 .kalimah-text {
-color: rgb(65, 65, 65)
+color: black
 }
 
 .kalimah-text-prominent {
@@ -146,6 +145,10 @@ color: rgb(65, 65, 65)
     text-decoration: none;
 }
 
+.colon-seperator {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
 .ayaNumber {
     font-family: "Arial";
     font-size : 0.7em;
