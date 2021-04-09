@@ -89,21 +89,20 @@ i {
 }
 
 .ara-description {
-    font-family: 'UthmanTahaNaskh';
+    font-family: "Traditional Arabic","Times New Roman";
     line-height: 1.6em;
     font-size: 1.4em;
     direction: rtl;
     text-align: justify;
-    font-stretch: expanded;
+    font-stretch: semi-expanded;
 }
 
 .bismillah {
-    font-family: 'UthmanTahaNaskh';
+    font-family: "Traditional Arabic","Times New Roman";
     line-height: 1.4em;
     font-size: 1.4em;
     direction: rtl;
     text-align: center;
-    font-stretch: expanded;
     padding-bottom: 1em;
     padding-top: 0.6em;
 }
@@ -113,7 +112,7 @@ i {
     direction: rtl;
     text-align: justify;
     padding-top: 0.3em;
-    font-family: 'UthmanicHafsV12';
+    font-family: "Traditional Arabic","Times New Roman";
     font-weight: 500;
     line-height: 1.8em;
     font-size: 1.4em;   
