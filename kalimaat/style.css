@@ -66,6 +66,8 @@ i {
     color: brown;
     text-align: center;
     background-color: blanchedalmond;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;    
 }
 
 .ayatCount {
@@ -121,7 +123,7 @@ i {
 }
 
 .kalimah-text {
-color: rgb(99, 99, 99)
+color: rgb(65, 65, 65)
 }
 
 .kalimah-text-prominent {
