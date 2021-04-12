@@ -161,6 +161,18 @@ color: black
     font-size : 0.7em
 }
 
+.all-refs-link {
+
+    text-decoration: none;
+    color: green;
+    padding-right: 1em;
+}
+
+.lanes-lexicon {
+    text-decoration: none;
+    color: navy;
+}
+
 .explaination {
     font-family: Georgia;
     line-height: 1.2em;
