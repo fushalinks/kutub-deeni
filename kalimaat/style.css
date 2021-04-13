@@ -179,7 +179,7 @@ color: black
     font-size: 0.8em;
     color: rgb(97, 97, 97);
     direction: ltr;
-    text-align: justify;
+    text-align: left;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
@@ -190,7 +190,7 @@ color: black
     font-size: 1em;
     color: rgb(92, 92, 92);
     direction: ltr;
-    text-align: justify;
+    text-align: left;
     margin-top: 0.5em;
     padding-bottom: 1em;
     border-bottom: 0.05em solid darkgrey;
