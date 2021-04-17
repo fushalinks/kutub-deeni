@@ -1,5 +1,5 @@
             <span> (
-                <a target="_blank" href="https://tanzil.net/#search/root/%D8%B4%D9%86%D8%A1" class="all-refs-link">All Ayaats</a>
-                <a target="_blank" href="http://lexicon.quranic-research.net/data/13_X/153_XnO.html" class="lanes-lexicon">Lane</a>
+                <a target="_blank" href="" class="all-refs-link">All Ayaats</a>
+                <a target="_blank" href="" class="lexicon">Lexicon</a></a>
             )
             </span>
