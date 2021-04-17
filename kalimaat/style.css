@@ -168,9 +168,10 @@ color: black
     padding-right: 1em;
 }
 
-.lanes-lexicon {
+.lexicon {
     text-decoration: none;
     color: navy;
+    padding-left: 0.5em;
 }
 
 .explaination {
